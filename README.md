@@ -11,7 +11,7 @@
 - 🎓 Studyng to be a Full Stack Java Developer at generation Brazil
 
 ##
-### Languages 💻
+### Technologies 💻
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
