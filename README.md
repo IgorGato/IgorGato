@@ -7,8 +7,8 @@
 
 - 👾 22 years old.
 - 🏠 I live in São Paulo-Brazil.
-- 📚 Studyng a bachelor degree in Computer Science at USP-São Carlos.
-- 🎓 Studyng to be a Full Stack Java Developer at generation Brazil
+- 📚 Studying a bachelor degree in Computer Science at USP-São Carlos.
+- 🎓 Studying to be a Full Stack Java Developer at Generation Brazil
 
 ##
 ### Technologies 💻
