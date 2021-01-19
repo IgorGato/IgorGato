@@ -1,5 +1,5 @@
 
-## Hello, I'm Igor Gato technology enthusiast, always looking to learn something new
+## Hello, I'm Igor Gato, technology enthusiast, always looking to learn something new
 
 ### Welcome to my GitHub 😄
 ##
