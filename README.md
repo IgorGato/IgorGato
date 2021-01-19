@@ -27,6 +27,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-g-0a6140135//)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Igor.MateusQG//)
-
-
-[![Spotify](https://igorgato.vercel.app/api/spotify)](https://open.spotify.com/user/igormqg-8)
