@@ -6,7 +6,7 @@
 ### Who I am? 🤔
 
 - 👾 22 years old.
-- 🏠 I live in São Paulo-Brazil.
+- 🏠 I live in São Paulo-SP, city in Brazil.
 - 📚 Studying a bachelor degree in Computer Science at USP-São Carlos.
 - 🎓 Studying to be a Full Stack Java Developer at Generation Brazil
 
